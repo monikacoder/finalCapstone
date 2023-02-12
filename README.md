@@ -27,7 +27,7 @@ The program will present you with following menu, user can continously select an
  
   
   ```pycon
-  va - View all the shoes in the inventory
+  va - View All the shoes in the inventory
   ╒═════════════════════╤════════╤═══════════╤════════╤═══════════════╕
   │ Country             │   Code │ Product   │   Cost │ Quantity      │
   ╞═════════════════════╪════════╪═══════════╪════════╪═══════════════╡
@@ -42,7 +42,7 @@ The program will present you with following menu, user can continously select an
   ```
   
   ```pycon
-  vp - Show the value of each product
+  vp - show the Value of each Product
   ╒═════════════════════╤══════════════╕
   │ Product             │   Total Cost │
   ╞═════════════════════╪══════════════╡
@@ -59,3 +59,4 @@ The program will present you with following menu, user can continously select an
 
 <h4>Credits</h4>
 This project has been developed by Monika Nohwar ( that is myself!!!!!)
+My many thanks to the HyperionDev for the guidance, course material and amazing mentorship for teaching the Software Engineering course. I have learnt the Python skills as part of this course and bootcamp and I have also learnt enormously from the comprehensive review comments on my assessments.
