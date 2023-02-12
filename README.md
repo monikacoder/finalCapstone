@@ -58,5 +58,7 @@ The program will present you with following menu, user can continously select an
 
 
 <h4>Credits</h4>
-This project has been developed by Monika Nohwar ( that is myself!!!!!)
-My many thanks to the HyperionDev for the guidance, course material and amazing mentorship for teaching the Software Engineering course. I have learnt the Python skills as part of this course and bootcamp and I have also learnt enormously from the comprehensive review comments on my assessments.
+This project has been developed by Monika Nohwar ( that is myself!!!!!)  
+
+My many thanks to the **HyperionDev** for the guidance, course material and amazing mentorship for teaching the **Software Engineering** course.   
+I have primarily learnt the **Python** language as part of this course and bootcamp and I have also learnt enormously from the comprehensive review comments on my assessments.
